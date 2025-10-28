@@ -39,7 +39,7 @@ src="https://www.youtube.com/embed/1yOLOtmgcQw"
 title="Video 7" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>` },
-  { titulo: "💖Todo contigo....", contenido: `<p>💘 Me importas mucho te volviste un ideal al que quiero darle todo mi ser porque lo eres todo mi reina, quiero hacerte de todo y que seas mi todo, mi mundo, esa muchachita con la que estoy dispuesto a entregarle mi vida, no todo es perfecto, pero jamas faltara el amor y cariño que le tengo, te aprecio mucho eres muy importante en mi vida, y se que tambien lo soy en la tuya, no nos perdamos jamas ya hicimos lo dificil que fue encontrarnos. Muchas gracias por ver y la quiero mucho y la extraño, no tengas miedo aqui estara tu colombiano y no se va ir de tu vida jamas, porque ese colombiano en ti encontro todooooo lo que quiere, desea y sueña, no nos dejemos jamas, mejoremos y queramonos muchisimo mas sin miedo a perdernos porque esto es real, unico y es para la eternidad, no cerremos nuestros corazones........</p><iframe width="100%" height="315"
+  { titulo: "💖Todo contigo....", contenido: `<p>💘 Me importas mucho te volviste un ideal al que quiero darle todo mi ser porque lo eres todo mi reina, quiero hacerte de todo y que seas mi todo, mi mundo, esa muchachita con la que estoy dispuesto a entregarle mi vida, no todo es perfecto, pero jamas faltara el amor y cariño que le tengo, te aprecio mucho eres muy importante en mi vida, y se que tambien lo soy en la tuya, no nos perdamos jamas ya hicimos lo dificil que fue encontrarnos. Muchas gracias por ver y la quiero mucho y la extraño, no tengas miedo aqui estara tu colombiano y no se va ir de tu vida jamas, porque ese colombiano en ti encontro todooooo lo que quiere, desea y sueña, no nos dejemos jamas, mejoremos y queramonos muchisimo mas sin miedo a perdernos porque esto es real, unico y es para la eternidad, no cerremos nuestros corazones........vuelve y juega porque no puso una buena imagen youtube😠</p><iframe width="100%" height="315"
 src="https://www.youtube.com/embed/XGAn0vm79Gw"
 title="Video final" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -114,6 +114,7 @@ function mostrarMensajeFinal() {
     window.location.href = "final.html"; // redirige a la última página
   });
 }
+
 
 
 

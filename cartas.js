@@ -1,7 +1,11 @@
 // Lista de cartas (12)
 const cartas = [
   { titulo: "💫Nos conocimos.....", contenido: `<p>💌 De una forma unica nos conocimos donde se fueron dando las cosas a su tiempo, no buscabamso nada pero nos enamoramos de la forma mas sincera y real, solo con escucharnos abrimos nuestros corazones, construyendo sueños y promesas que tenemos en nuestros corazones y en nuestro futuro. Formando un amor unico y sincero.....</p><img src="imagen1.jpg" alt="Carta 1">` },
-  { titulo: "❤️Un detalle con todo el corazón.....", contenido: `<p>💕 Se que no es lo mismo que un abrazo pero lo hice con mucho cariño para ti mi reina hermosisima, son videos corticos que hablan de mi y mucho de ti, con mucha sinceridad y amor de ti de tu zorrito colombiano que te quiere con todo el corazon, lo de nosotros es unico y aunque sea a la distacncia ni he dejado de pensar en ti y tampoco me impide hacerte detallitos asi.....</p><video src="video1.mp4" controls></video>` },
+  { titulo: "❤️Un detalle con todo el corazón.....", contenido: `<p>💕 Se que no es lo mismo que un abrazo pero lo hice con mucho cariño para ti mi reina hermosisima, son videos corticos que hablan de mi y mucho de ti, con mucha sinceridad y amor de ti de tu zorrito colombiano que te quiere con todo el corazon, lo de nosotros es unico y aunque sea a la distacncia ni he dejado de pensar en ti y tampoco me impide hacerte detallitos asi.....</p><iframe width="100%" height="315"
+src="https://www.youtube.com/embed/cZieQJiOKus"
+title="Video para ti" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>` },
   { titulo: "🌹Me encantas....", contenido: `<p>✨ No puedo expresar lo mucho que me gustas y me encantas.........</p><video src="video2.mp4" controls></video>` },
   { titulo: "💖Nos queda toda esta vida y muchas mas.....", contenido: `<p>🎥Compartimos muchas cosas hermosas, nuestras canciones, el juego, muchas risas, peleitas, chismosear, amor, cariño, sentimientos, cositas hermosas que no haríamos con cualquier persona y esto lo hace único, con pensar y extrañar en el otro y crear un futuro juntos. Aún faltan muchas más cosas por compartir, nos queda toda la vida mi reina.......</p><img src="imagen2.jpg" alt="Carta 2">` },
   { titulo: "💕Contigo.....", contenido: `<p>🌙 Lo eres todo mi reina, quiero que lo seas todo, un detallito con mucho cariño, contigo hasta el fin del mundo, todo con sinceridad y le caigo pa donde sea mi sapa.</p><video src="video3.mp4" controls></video>` },
@@ -82,5 +86,6 @@ function mostrarMensajeFinal() {
     window.location.href = "final.html"; // redirige a la última página
   });
 }
+
 
 

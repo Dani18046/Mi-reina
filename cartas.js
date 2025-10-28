@@ -23,7 +23,11 @@ title="Video 4" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>` },
   { titulo: "🌹¿Por qué tú?.....", contenido: `<p>💘 Me encantas, tantas cosas que decir sobre ti que ni me da para explicarlo solo con palabras, me encantas, me gusta todo de ti, esa personalidad tan bella y única, esa risa, esa boquita que me encanta y me enloquece, sus ojitos, tu hermoso cabello esa forma de tu pelo me encantas bien lo sabes toda su carita, que seas chismosa, que pelees, que me quieras pegar, y obvioooo todo ese cariño y corazón que tienes tan sincero y lleno de sentimientos, quiero todo eso en mi vida y se que hay muchisimo más, contigo voy de cabeza y sin casco, me ganaste mi reina, me enamoraste con ser tu.....no le digas a nadie como me portó contigo por fa, eso es solo suyo 🤭.</p><img src="imagen3.jpg" alt="Carta 3">` },
-  { titulo: "💞Entraste a mi corazon....", contenido: `<p>💕 Mi corazon es feliz a tu lado aunque sea distancia mi corazon te sinte y se que tambien lo sentiste, y es que tuuuu mi reina me tienes estupido sera que me hizo un amarre?, No mentiras yo se porque la quiero y porque quiero todo de ti, simplemente me corazon y todo lo que soy cayo en esa hermosura de persona y es feliz ahi mi ser y quiere darte todo hacerla feliz y de todo en esta vida y en todas.....</p><video src="video5.mp4" controls></video>` },
+  { titulo: "💞Entraste a mi corazon....", contenido: `<p>💕 Mi corazon es feliz a tu lado aunque sea distancia mi corazon te sinte y se que tambien lo sentiste, y es que tuuuu mi reina me tienes estupido sera que me hizo un amarre?, No mentiras yo se porque la quiero y porque quiero todo de ti, simplemente me corazon y todo lo que soy cayo en esa hermosura de persona y es feliz ahi mi ser y quiere darte todo hacerla feliz y de todo en esta vida y en todas.....</p><iframe width="100%" height="315"
+src="https://www.youtube.com/embed/XTcxVAYFft4"
+title="Video 5" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>` },
   { titulo: "💌Sinceridad....", contenido: `<p>🌹 Tengo tantos pensamientos, verdades, tanto he pensado en ti, y la verdad quiero decirte perdon por hacerte sentir asi la ultima vez que hablamos, quiero que siempre me digas la verdad, asi sin comer cuento, yo no le saco escusas, me gusta hablar comprenderte sin miedo ni incomodidad, si estuve mal yo lo reconozco(obviamente si es con razon sino pues nos agarramos mi reina🤭), toca que venga y me peliemos, y me de unas buenas nalgadas en eso jopo.......</p></p><video src="video6.mp4" controls></video>` },
   { titulo: "✨Una vida contigo.......", contenido: `<p>💫 No quiero ser el centro de tu vida, no quiero ser una preocupación más, quiero ser esa persona que compartirias todo, tus éxitos, tus tristezas, tus enojos, tus alegrías, disfrutar cada momento contigo en las buenas y en las malas y estar para ti siempre, además de eso obvioo no darle solo amor y cariño sino brindarte seguridad, apoyo, confianza y por qué no? Unos hijos bien hermosos que salgan con tu cabello y tu boquita hermosa y que tengan tu apellido y que sean mexicanos y colombianos (vamos a mejorar la raza 🤭), quiero todo contigo, una boda así como la imaginas y mucho mejor, un amor donde haya de todo, bien empalagoso, que nunca nos despegemos, un amor para la eternidad (solo es que me digas, le caigo y firmo 😉), quiero que seas mi todo, mi mundo, no te prometo bajar la luna pero si cumplir todos nuestros sueños y metas, un orgullo de que seas tu mi reina, entregarme completamente a ti y que tengas lo mejor de mi......💖</p><img src="imagen4.jpg" alt="Carta 4">` },
   { titulo: "💫Un comienzo......", contenido: `<p>💞 No importa el lugar, siempre estaras en mi, todo es real y sincero.....</p><video src="video7.mp4" controls></video>` },
@@ -98,6 +102,7 @@ function mostrarMensajeFinal() {
     window.location.href = "final.html"; // redirige a la última página
   });
 }
+
 
 
 

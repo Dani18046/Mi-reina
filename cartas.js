@@ -17,7 +17,11 @@ src="https://www.youtube.com/embed/n0I-UUF-Q8o"
 title="Video 3" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>` },
-  { titulo: "🦊Lo que quiero contigo....", contenido: `<p>❤️ Quiero todo contigo, contigo voy y me tiro de cabeza y sin casco, eres unico y quiero compartir todo contigo no solo amor y cariño sino en las buenas y en las malas, todo es real y sincero y te prometi que si todo era asi de sincero yo contigo hasta el fin, le caigo pa donde sea con solo sinceridad.....</p><video src="video4.mp4" controls></video>` },
+  { titulo: "🦊Lo que quiero contigo....", contenido: `<p>❤️ Quiero todo contigo, contigo voy y me tiro de cabeza y sin casco, eres unico y quiero compartir todo contigo no solo amor y cariño sino en las buenas y en las malas, todo es real y sincero y te prometi que si todo era asi de sincero yo contigo hasta el fin, le caigo pa donde sea con solo sinceridad.....</p><iframe width="100%" height="315"
+src="https://www.youtube.com/embed/kdjQX9o5t_8"
+title="Video 4" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>` },
   { titulo: "🌹¿Por qué tú?.....", contenido: `<p>💘 Me encantas, tantas cosas que decir sobre ti que ni me da para explicarlo solo con palabras, me encantas, me gusta todo de ti, esa personalidad tan bella y única, esa risa, esa boquita que me encanta y me enloquece, sus ojitos, tu hermoso cabello esa forma de tu pelo me encantas bien lo sabes toda su carita, que seas chismosa, que pelees, que me quieras pegar, y obvioooo todo ese cariño y corazón que tienes tan sincero y lleno de sentimientos, quiero todo eso en mi vida y se que hay muchisimo más, contigo voy de cabeza y sin casco, me ganaste mi reina, me enamoraste con ser tu.....no le digas a nadie como me portó contigo por fa, eso es solo suyo 🤭.</p><img src="imagen3.jpg" alt="Carta 3">` },
   { titulo: "💞Entraste a mi corazon....", contenido: `<p>💕 Mi corazon es feliz a tu lado aunque sea distancia mi corazon te sinte y se que tambien lo sentiste, y es que tuuuu mi reina me tienes estupido sera que me hizo un amarre?, No mentiras yo se porque la quiero y porque quiero todo de ti, simplemente me corazon y todo lo que soy cayo en esa hermosura de persona y es feliz ahi mi ser y quiere darte todo hacerla feliz y de todo en esta vida y en todas.....</p><video src="video5.mp4" controls></video>` },
   { titulo: "💌Sinceridad....", contenido: `<p>🌹 Tengo tantos pensamientos, verdades, tanto he pensado en ti, y la verdad quiero decirte perdon por hacerte sentir asi la ultima vez que hablamos, quiero que siempre me digas la verdad, asi sin comer cuento, yo no le saco escusas, me gusta hablar comprenderte sin miedo ni incomodidad, si estuve mal yo lo reconozco(obviamente si es con razon sino pues nos agarramos mi reina🤭), toca que venga y me peliemos, y me de unas buenas nalgadas en eso jopo.......</p></p><video src="video6.mp4" controls></video>` },
@@ -94,6 +98,7 @@ function mostrarMensajeFinal() {
     window.location.href = "final.html"; // redirige a la última página
   });
 }
+
 
 
 

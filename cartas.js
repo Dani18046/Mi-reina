@@ -6,7 +6,11 @@ src="https://www.youtube.com/embed/cZieQJiOKus"
 title="Video para ti" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>` },
-  { titulo: "🌹Me encantas....", contenido: `<p>✨ No puedo expresar lo mucho que me gustas y me encantas.........</p><video src="video2.mp4" controls></video>` },
+  { titulo: "🌹Me encantas....", contenido: `<p>✨ No puedo expresar lo mucho que me gustas y me encantas.........</p><iframe width="100%" height="315"
+src="https://www.youtube.com/embed/3XFEUWto5aM"
+title="Video 2" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>` },
   { titulo: "💖Nos queda toda esta vida y muchas mas.....", contenido: `<p>🎥Compartimos muchas cosas hermosas, nuestras canciones, el juego, muchas risas, peleitas, chismosear, amor, cariño, sentimientos, cositas hermosas que no haríamos con cualquier persona y esto lo hace único, con pensar y extrañar en el otro y crear un futuro juntos. Aún faltan muchas más cosas por compartir, nos queda toda la vida mi reina.......</p><img src="imagen2.jpg" alt="Carta 2">` },
   { titulo: "💕Contigo.....", contenido: `<p>🌙 Lo eres todo mi reina, quiero que lo seas todo, un detallito con mucho cariño, contigo hasta el fin del mundo, todo con sinceridad y le caigo pa donde sea mi sapa.</p><video src="video3.mp4" controls></video>` },
   { titulo: "🦊Lo que quiero contigo....", contenido: `<p>❤️ Quiero todo contigo, contigo voy y me tiro de cabeza y sin casco, eres unico y quiero compartir todo contigo no solo amor y cariño sino en las buenas y en las malas, todo es real y sincero y te prometi que si todo era asi de sincero yo contigo hasta el fin, le caigo pa donde sea con solo sinceridad.....</p><video src="video4.mp4" controls></video>` },
@@ -86,6 +90,7 @@ function mostrarMensajeFinal() {
     window.location.href = "final.html"; // redirige a la última página
   });
 }
+
 
 
 

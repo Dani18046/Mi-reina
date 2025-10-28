@@ -34,7 +34,11 @@ title="Video 6" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>` },
   { titulo: "✨Una vida contigo.......", contenido: `<p>💫 No quiero ser el centro de tu vida, no quiero ser una preocupación más, quiero ser esa persona que compartirias todo, tus éxitos, tus tristezas, tus enojos, tus alegrías, disfrutar cada momento contigo en las buenas y en las malas y estar para ti siempre, además de eso obvioo no darle solo amor y cariño sino brindarte seguridad, apoyo, confianza y por qué no? Unos hijos bien hermosos que salgan con tu cabello y tu boquita hermosa y que tengan tu apellido y que sean mexicanos y colombianos (vamos a mejorar la raza 🤭), quiero todo contigo, una boda así como la imaginas y mucho mejor, un amor donde haya de todo, bien empalagoso, que nunca nos despegemos, un amor para la eternidad (solo es que me digas, le caigo y firmo 😉), quiero que seas mi todo, mi mundo, no te prometo bajar la luna pero si cumplir todos nuestros sueños y metas, un orgullo de que seas tu mi reina, entregarme completamente a ti y que tengas lo mejor de mi......💖</p><img src="imagen4.jpg" alt="Carta 4">` },
-  { titulo: "💫Un comienzo......", contenido: `<p>💞 No importa el lugar, siempre estaras en mi, todo es real y sincero.....</p><video src="video7.mp4" controls></video>` },
+  { titulo: "💫Un comienzo......", contenido: `<p>💞 No importa el lugar, siempre estaras en mi, todo es real y sincero.....</p><iframe width="100%" height="315"
+src="https://www.youtube.com/embed/1yOLOtmgcQw"
+title="Video 7" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>` },
   { titulo: "💖Todo contigo....", contenido: `<p>💘 Me importas mucho te volviste un ideal al que quiero darle todo mi ser porque lo eres todo mi reina, quiero hacerte de todo y que seas mi todo, mi mundo, esa muchachita con la que estoy dispuesto a entregarle mi vida, no todo es perfecto, pero jamas faltara el amor y cariño que le tengo, te aprecio mucho eres muy importante en mi vida, y se que tambien lo soy en la tuya, no nos perdamos jamas ya hicimos lo dificil que fue encontrarnos. Muchas gracias por ver y la quiero mucho y la extraño, no tengas miedo aqui estara tu colombiano y no se va ir de tu vida jamas, porque ese colombiano en ti encontro todooooo lo que quiere, desea y sueña, no nos dejemos jamas, mejoremos y queramonos muchisimo mas sin miedo a perdernos porque esto es real, unico y es para la eternidad, no cerremos nuestros corazones........</p><video src="video8.mp4" controls></video>` }
 ];
 
@@ -106,6 +110,7 @@ function mostrarMensajeFinal() {
     window.location.href = "final.html"; // redirige a la última página
   });
 }
+
 
 
 

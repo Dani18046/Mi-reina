@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Caricas 💌</title>
+  <link rel="stylesheet" href="style_cartas.css">
+</head>
+<body>
+  <!-- Música de fondo -->
+  <audio id="bg-music" autoplay loop>
+    <source src="musica.mp3" type="audio/mpeg">
+  </audio>
+
+  <!-- Corazones flotando -->
+  <div class="hearts"></div>
+
+  <div class="contenedor">
+    <h1>Partes de mi corazon que hablan de mi y muchisimo de ti💌</h1>
+    <div id="cartas-container" class="cartas-container"></div>
+
+    <!-- Mensaje final oculto -->
+    <div id="mensaje-final" class="mensaje-final">
+      <h2>💖 Gracias por ver las cartas 💖</h2>
+      <p>Y ahora quiero mostrarte algo muy especial...</p>
+      <button id="btn-final" class="btn-final">Con mucho cariño 💌</button>
+    </div>
+  </div>
+
+  <!-- Modal de cartas -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h2 id="titulo-carta"></h2>
+      <div id="contenido-carta"></div>
+    </div>
+  </div>
+
+  <script src="cartas.js"></script>
+</body>
+</html>

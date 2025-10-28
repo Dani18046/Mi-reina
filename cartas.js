@@ -23,7 +23,7 @@ title="Video 4" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>` },
   { titulo: "🌹¿Por qué tú?.....", contenido: `<p>💘 Me encantas, tantas cosas que decir sobre ti que ni me da para explicarlo solo con palabras, me encantas, me gusta todo de ti, esa personalidad tan bella y única, esa risa, esa boquita que me encanta y me enloquece, sus ojitos, tu hermoso cabello esa forma de tu pelo me encantas bien lo sabes toda su carita, que seas chismosa, que pelees, que me quieras pegar, y obvioooo todo ese cariño y corazón que tienes tan sincero y lleno de sentimientos, quiero todo eso en mi vida y se que hay muchisimo más, contigo voy de cabeza y sin casco, me ganaste mi reina, me enamoraste con ser tu.....no le digas a nadie como me portó contigo por fa, eso es solo suyo 🤭.</p><img src="imagen3.jpg" alt="Carta 3">` },
-  { titulo: "💞Entraste a mi corazon....", contenido: `<p>💕 Mi corazon es feliz a tu lado aunque sea distancia mi corazon te sinte y se que tambien lo sentiste, y es que tuuuu mi reina me tienes estupido sera que me hizo un amarre?, No mentiras yo se porque la quiero y porque quiero todo de ti, simplemente me corazon y todo lo que soy cayo en esa hermosura de persona y es feliz ahi mi ser y quiere darte todo hacerla feliz y de todo en esta vida y en todas.....</p><iframe width="100%" height="315"
+  { titulo: "💞Entraste a mi corazon....", contenido: `<p>💕 Mi corazon es feliz a tu lado aunque sea distancia mi corazon te sinte y se que tambien lo sentiste, y es que tuuuu mi reina me tienes estupido sera que me hizo un amarre?, No mentiras yo se porque la quiero y porque quiero todo de ti, simplemente me corazon y todo lo que soy cayo en esa hermosura de persona y es feliz ahi mi ser y quiere darte todo hacerla feliz y de todo en esta vida y en todas.....Uhsss porque youtube me puso asi de feo jajaja</p><iframe width="100%" height="315"
 src="https://www.youtube.com/embed/XTcxVAYFft4"
 title="Video 5" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -114,6 +114,7 @@ function mostrarMensajeFinal() {
     window.location.href = "final.html"; // redirige a la última página
   });
 }
+
 
 
 

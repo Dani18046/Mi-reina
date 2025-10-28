@@ -12,7 +12,11 @@ title="Video 2" frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>` },
   { titulo: "💖Nos queda toda esta vida y muchas mas.....", contenido: `<p>🎥Compartimos muchas cosas hermosas, nuestras canciones, el juego, muchas risas, peleitas, chismosear, amor, cariño, sentimientos, cositas hermosas que no haríamos con cualquier persona y esto lo hace único, con pensar y extrañar en el otro y crear un futuro juntos. Aún faltan muchas más cosas por compartir, nos queda toda la vida mi reina.......</p><img src="imagen2.jpg" alt="Carta 2">` },
-  { titulo: "💕Contigo.....", contenido: `<p>🌙 Lo eres todo mi reina, quiero que lo seas todo, un detallito con mucho cariño, contigo hasta el fin del mundo, todo con sinceridad y le caigo pa donde sea mi sapa.</p><video src="video3.mp4" controls></video>` },
+  { titulo: "💕Contigo.....", contenido: `<p>🌙 Lo eres todo mi reina, quiero que lo seas todo, un detallito con mucho cariño, contigo hasta el fin del mundo, todo con sinceridad y le caigo pa donde sea mi sapa.</p><iframe width="100%" height="315"
+src="https://www.youtube.com/embed/n0I-UUF-Q8o"
+title="Video 3" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>` },
   { titulo: "🦊Lo que quiero contigo....", contenido: `<p>❤️ Quiero todo contigo, contigo voy y me tiro de cabeza y sin casco, eres unico y quiero compartir todo contigo no solo amor y cariño sino en las buenas y en las malas, todo es real y sincero y te prometi que si todo era asi de sincero yo contigo hasta el fin, le caigo pa donde sea con solo sinceridad.....</p><video src="video4.mp4" controls></video>` },
   { titulo: "🌹¿Por qué tú?.....", contenido: `<p>💘 Me encantas, tantas cosas que decir sobre ti que ni me da para explicarlo solo con palabras, me encantas, me gusta todo de ti, esa personalidad tan bella y única, esa risa, esa boquita que me encanta y me enloquece, sus ojitos, tu hermoso cabello esa forma de tu pelo me encantas bien lo sabes toda su carita, que seas chismosa, que pelees, que me quieras pegar, y obvioooo todo ese cariño y corazón que tienes tan sincero y lleno de sentimientos, quiero todo eso en mi vida y se que hay muchisimo más, contigo voy de cabeza y sin casco, me ganaste mi reina, me enamoraste con ser tu.....no le digas a nadie como me portó contigo por fa, eso es solo suyo 🤭.</p><img src="imagen3.jpg" alt="Carta 3">` },
   { titulo: "💞Entraste a mi corazon....", contenido: `<p>💕 Mi corazon es feliz a tu lado aunque sea distancia mi corazon te sinte y se que tambien lo sentiste, y es que tuuuu mi reina me tienes estupido sera que me hizo un amarre?, No mentiras yo se porque la quiero y porque quiero todo de ti, simplemente me corazon y todo lo que soy cayo en esa hermosura de persona y es feliz ahi mi ser y quiere darte todo hacerla feliz y de todo en esta vida y en todas.....</p><video src="video5.mp4" controls></video>` },
@@ -90,6 +94,7 @@ function mostrarMensajeFinal() {
     window.location.href = "final.html"; // redirige a la última página
   });
 }
+
 
 
 
